@@ -1,2 +1,6 @@
 # Abstractive-Text-Summarizer
 NLP project on Amazon food reviews dataset using attention based model for text summarization.
+
+Text summarization is nowadays one of the most researched topics in natural language processing (NLP) and has its applications in almost all domains of the internet, for example, e-shops, search engines and news websites that use summaries to give readers an overview of what a particular article might talk about.
+Abstractive Text Summarization is a technique of generating summaries by capturing the salient ideas of the text. It aims at converting a long text document into a concise text, which contains the most important facts from the document.
+The main objective of this project is to apply abstractive text summarization using attentional encoder-decoder LSTM. The idea is not just about making a mere selection of existing sentences but about a compressed rephrasing with potentially unseen words. It involves a complex process of understanding the language, the context and generating new sentences. Furthermore, using LSTM encoder-decoder manner leads us to Sequence-To-Sequence architecture, which is one of the most used and best-performing approaches in machine translation.
